@@ -378,8 +378,7 @@ if __name__ == '__main__':
     app.run(debug=True)
 ```
 # 📸 Evidencia del Ejercicio 1.1
-<!-- Pega aquí tu imagen -->
-<!-- Ejemplo: ![Clima](static/img/clima.png) -->
+![pruebas](https://github.com/natalyvictoria-jpge/Apis/raw/main/clima.png)
 
 # 📍 Ejercicio 1.2: Buscador de Lugares Cercanos
 
