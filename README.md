@@ -11,7 +11,7 @@
 
 📘 **Materia:** Aplicaciones Web Orientada a Servicios  
 👩‍💻❤️ **Nombre:** Nataly Victoria Gonzalez Aviles  
-🏫 **Proyecto o Actividad:** Desarrollo de aplicación web con APIs  
+🏫 **Proyecto o Actividad:** Actividad 2.6 Desarrollo de aplicación web con APIs  
 📅 **Unidad:** 2  
 ⚙️ **Lenguaje:** Python  
 🧠 **Propósito:** Desarrollar 10 aplicaciones web utilizando 10 APIs diferentes, aplicando los conocimientos adquiridos en la unidad 3 y comprendiendo su funcionamiento mediante su implementación en Python.  
