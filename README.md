@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  🌐💻 APLICACIONES WEB
+  🌐💻 APLICACIONES WEB ORIENTADA A SERVICIOS
 </h1>
 
 
