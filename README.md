@@ -740,7 +740,7 @@ def buscar_lugares():
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5001)
 ```
-📸 Evidencia del Ejercicio 1.2
+# 📸 Evidencia del Ejercicio 1.2
 ![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/lugares.jpeg)
 
 # 👽 Ejercicio 2.1: Analizador de Reddit
