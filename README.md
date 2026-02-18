@@ -56,8 +56,6 @@
 - 💱 [Ejercicio 4.2: Conversor de Divisas](#-ejercicio-42-conversor-de-divisas)
 - 🎬 [Ejercicio 5.1: Buscador de Películas](#-ejercicio-51-buscador-de-películas)
 - 🎵 [Ejercicio 5.2: Buscador de Música con Spotify Web API](#-ejercicio-52-buscador-de-música-con-spotify-web-api)
-- 🛠️ [Solución de Problemas](#️-solución-de-problemas)
-- ✅ [Repositorio en GitHub](#-repositorio-en-github)
 
 ---
 
