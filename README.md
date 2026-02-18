@@ -740,6 +740,7 @@ if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5001)
 ```
 📸 Evidencia del Ejercicio 1.2
+![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/lugares.jpeg)
 
 # 👽 Ejercicio 2.1: Analizador de Reddit
 
@@ -864,6 +865,7 @@ if __name__ == '__main__':
 ```
 
 📸 Evidencia del Ejercicio 2.1
+![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/reddit.jpeg)
 
 # Ejercicio 2.2: Dashboard de GitHub
 
@@ -1007,7 +1009,7 @@ if __name__ == '__main__':
 ```
 
 📸 Evidencia del Ejercicio 2.2
-
+![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/github.jpeg)
 
 # 🗃️ Ejercicio 3.1: API REST con SQLite
 
@@ -1278,6 +1280,7 @@ if __name__ == '__main__':
 ```
 
 📸 Evidencia del Ejercicio 3.1
+![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/productos.jpeg)
 
 # 💬 Ejercicio 3.2: Chat con Firebase
 
@@ -1472,6 +1475,7 @@ if __name__ == '__main__':
 ```
 
 📸 Evidencia del Ejercicio 3.2
+![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/chat.jpeg)
 
 # 📚 Ejercicio 4.1: Buscador de Libros
 
@@ -1597,6 +1601,7 @@ if __name__ == '__main__':
 ```
 
 📸 Evidencia del Ejercicio 4.1
+![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/libros.jpeg)
 
 # 💱 Ejercicio 4.2: Conversor de Divisas
 
@@ -1850,6 +1855,7 @@ if __name__ == '__main__':
 ```
 
 📸 Evidencia del Ejercicio 4.2
+![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/divisas.jpeg)
 
 # 🎬 Ejercicio 5.1: Buscador de Películas
 
@@ -1967,8 +1973,9 @@ def buscar_peliculas():
 if __name__ == '__main__':
     app.run(debug=True, port=5008)
 ```
-
+![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/peliculas.jpeg)
 📸 Evidencia del Ejercicio 5.1
+![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/peliculas.jpeg)
 
 # 🎵 Ejercicio 5.2: Buscador de Música con Spotify Web API
 
@@ -2247,3 +2254,5 @@ if __name__ == '__main__':
 ```
 
 📸 Evidencia del Ejercicio 5.2
+![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/spotify.jpeg)
+
