@@ -865,7 +865,7 @@ if __name__ == '__main__':
     app.run(debug=True, port=5002)
 ```
 
-📸 Evidencia del Ejercicio 2.1
+# 📸 Evidencia del Ejercicio 2.1
 ![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/reddit.jpeg)
 
 # Ejercicio 2.2: Dashboard de GitHub
@@ -1005,11 +1005,11 @@ def obtener_usuario_github(username):
         return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
-    # Usamos el puerto 5003 para evitar conflictos
+    Usamos el puerto 5003 para evitar conflictos
     app.run(debug=True, port=5003)
 ```
 
-📸 Evidencia del Ejercicio 2.2
+# 📸 Evidencia del Ejercicio 2.2
 ![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/github.jpeg)
 
 # 🗃️ Ejercicio 3.1: API REST con SQLite
@@ -1280,7 +1280,7 @@ if __name__ == '__main__':
     app.run(debug=True, port=5004)
 ```
 
-📸 Evidencia del Ejercicio 3.1
+# 📸 Evidencia del Ejercicio 3.1
 ![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/productos.jpeg)
 
 # 💬 Ejercicio 3.2: Chat con Firebase
@@ -1475,7 +1475,7 @@ if __name__ == '__main__':
     app.run(debug=True, port=5005)
 ```
 
-📸 Evidencia del Ejercicio 3.2
+# 📸 Evidencia del Ejercicio 3.2
 ![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/chat.jpeg)
 
 # 📚 Ejercicio 4.1: Buscador de Libros
@@ -1601,7 +1601,7 @@ if __name__ == '__main__':
     app.run(debug=True, port=5006)
 ```
 
-📸 Evidencia del Ejercicio 4.1
+# 📸 Evidencia del Ejercicio 4.1
 ![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/libros.jpeg)
 
 # 💱 Ejercicio 4.2: Conversor de Divisas
@@ -1855,7 +1855,7 @@ if __name__ == '__main__':
     app.run(debug=True, port=5007)
 ```
 
-📸 Evidencia del Ejercicio 4.2
+# 📸 Evidencia del Ejercicio 4.2
 ![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/divisas.jpeg)
 
 # 🎬 Ejercicio 5.1: Buscador de Películas
@@ -1974,7 +1974,7 @@ def buscar_peliculas():
 if __name__ == '__main__':
     app.run(debug=True, port=5008)
 ```
-📸 Evidencia del Ejercicio 5.1
+# 📸 Evidencia del Ejercicio 5.1
 ![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/peliculas.jpeg)
 
 # 🎵 Ejercicio 5.2: Buscador de Música con Spotify Web API
@@ -2253,7 +2253,7 @@ if __name__ == '__main__':
     app.run(debug=True, port=5009)
 ```
 
-📸 Evidencia del Ejercicio 5.2
+# 📸 Evidencia del Ejercicio 5.2
 ![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/spotify.jpeg)
 
 # 📌 Conclusión
