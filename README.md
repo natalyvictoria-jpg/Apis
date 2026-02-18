@@ -378,7 +378,7 @@ if __name__ == '__main__':
     app.run(debug=True)
 ```
 # 📸 Evidencia del Ejercicio 1.1
-![pruebas](https://github.com/natalyvictoria-jpge/Apis/raw/main/clima.jpeg)
+![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/clima.jpeg)
 
 # 📍 Ejercicio 1.2: Buscador de Lugares Cercanos
 
