@@ -31,16 +31,6 @@
   <img src="https://img.shields.io/badge/APIs-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
 
----
-
-## 📘 Información General
-
-- 📚 **Materia:** Aplicaciones Web Orientadas a Servicios  
-- 👩‍💻❤️ **Nombre:** Nataly Victoria Gonzalez Aviles  
-- 🏫 **Proyecto o Actividad:** Ejercicios Guiados  
-- 📅 **Unidad:** 2  
-- ⚙️ **Lenguaje:** Python  
-- 🧠 **Propósito:** Desarrollar **10 aplicaciones web** consumiendo **10 APIs** diferentes, aplicando los conocimientos adquiridos en la Unidad 2.
 
 ---
 
