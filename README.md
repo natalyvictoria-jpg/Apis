@@ -6,6 +6,12 @@
   🌐💻 APLICACIONES WEB
 </h1>
 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Web Apps](https://img.shields.io/badge/Web%20Apps-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
+
+
 ## GTID153
 
 📘 **Materia:** Aplicaciones Web Orientada a Servicios  
