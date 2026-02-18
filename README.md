@@ -15,6 +15,7 @@
 📅 **Unidad:** 2
 ⚙️ **Lenguaje:** Python  
 🧠 **Propósito:** Desarrollar 10 aplicaciones web utilizando 10 APIs diferentes, aplicando los conocimientos adquiridos en la unidad 3 y comprendiendo su funcionamiento mediante su implementación en Python.
+👨‍🏫 **Docente:** Anastacio Rodriguez Garcia
 
 
 <p align="center">
@@ -2254,4 +2255,8 @@ if __name__ == '__main__':
 
 📸 Evidencia del Ejercicio 5.2
 ![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/spotify.jpeg)
+
+# 📌 Conclusión
+
+Este proyecto reúne ejercicios prácticos de desarrollo web, APIs y bases de datos, mostrando cómo construir aplicaciones interactivas y conectar servicios externos. Sirve como guía de aprendizaje y referencia visual mediante screenshots y dashboards.
 
