@@ -866,7 +866,7 @@ if __name__ == '__main__':
 
 📸 Evidencia del Ejercicio 2.1
 
-# 🧑‍💻 Ejercicio 2.2: Dashboard de GitHub
+# 🐙 Ejercicio 2.2: Dashboard de GitHub
 
 📌 Descripción:
 Aplicación que consulta repositorios de un usuario y muestra información.
