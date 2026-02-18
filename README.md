@@ -49,7 +49,7 @@
 - 🌦️ [Ejercicio 1.1: Sistema de Clima por Ubicación](#️-ejercicio-11-sistema-de-clima-por-ubicación)
 - 📍 [Ejercicio 1.2: Buscador de Lugares Cercanos](#-ejercicio-12-buscador-de-lugares-cercanos)
 - 👽 [Ejercicio 2.1: Analizador de Reddit](#-ejercicio-21-analizador-de-reddit)
-- 🐙 [Ejercicio 2.2: Dashboard de GitHub](#-ejercicio-22-dashboard-de-github)
+- 🐙 [Ejercicio 2.2: Dashboard de GitHub](#ejercicio-22-dashboard-de-github)
 - 🗄️ [Ejercicio 3.1: API REST con SQLite](#️-ejercicio-31-api-rest-con-sqlite)
 - 💬 [Ejercicio 3.2: Chat con Firebase](#-ejercicio-32-chat-con-firebase)
 - 📚 [Ejercicio 4.1: Buscador de Libros](#-ejercicio-41-buscador-de-libros)
