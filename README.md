@@ -1973,7 +1973,6 @@ def buscar_peliculas():
 if __name__ == '__main__':
     app.run(debug=True, port=5008)
 ```
-![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/peliculas.jpeg)
 📸 Evidencia del Ejercicio 5.1
 ![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/peliculas.jpeg)
 
